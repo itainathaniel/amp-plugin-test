@@ -17,7 +17,7 @@ class ExamplePlugin implements AmplicationPlugin {
     return {
       [EventNames.CreateServer]: {
         before: this.beforeCreateServer,
-        after: this.afterCreateServer,
+        // after: this.afterCreateServer,
       },
       [EventNames.CreateAdminUI]: {
         before: this.beforeCreateAdminUI,
