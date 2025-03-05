@@ -1,6 +1,6 @@
 {
   "name": "@amplication/plugin-node-js-new",
-  "version": "1.1.2",
+  "version": "2.0.0",
   "description": "Description of your plugin",
   "main": "dist/index.js",
   "scripts": {
